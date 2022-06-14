@@ -1,5 +1,12 @@
 # Hello, I'm Basil Yusuf 👋
 
+### 💻 &nbsp;About Me 
+
+- 🤔 &nbsp; Exploring new technologies and developing programming skills.
+- 🎓 &nbsp; Studying Computer Science at University of Guelph.
+
+<br>
+
 ![myComp](https://user-images.githubusercontent.com/92009321/173706037-3414d647-59bd-475d-8595-a5c7c8da1aa2.gif)
 
 ## Tech Stack
