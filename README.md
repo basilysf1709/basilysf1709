@@ -1,4 +1,4 @@
-## Hello, I'm [Basil Yusuf] 👋
+## Hello, I'm Basil Yusuf 👋
 
 # 💻Tech Stack
 
