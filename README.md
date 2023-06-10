@@ -23,7 +23,7 @@
   <h3><b>Connect with me:</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/basil-yusuf/" target="_blank">
+<a href="https://www.linkedin.com/in/basil-yusuf-388326273/" target="_blank">
   <img align="center" alt="Basil Yusuf | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:basilyusuf1709@gmail.com" >
