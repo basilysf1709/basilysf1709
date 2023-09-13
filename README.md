@@ -7,7 +7,7 @@
 - 🚀 &nbsp; SWE generalist experienced in Java, Python, C++, JavaScript, React, Node.js, SQL, NoSQL, Docker, Kubernetes, etc
 - 🔍 &nbsp; Always eager to embrace and experiment with new tech, staying at the forefront of industry trends.
 - 🌱 &nbsp; Currently focused on Networking and Distributed Systems
-- 🌐 &nbsp; Check out my contributions on GitHub profile for open-source projects.
+- 🌐 &nbsp; Check out my contributions on GitHub profile for projects.
 - 🤝 &nbsp; Open to connecting with fellow developers, tech enthusiasts, and potential collaborators.
 - 📫 &nbsp; Reach out via basilyusuf1709@gmail.com or https://www.linkedin.com/in/basil-yusuf-388326273/ to get in touch. Let's build something awesome together!
 
