@@ -2,8 +2,15 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing programming skills.
-- 🎓 &nbsp; Studying Computer Science at University of Guelph.
+- 👋 &nbsp; Hi there! I'm Basil Yusuf, a Software Engineer with a passion for exploring diverse technologies.
+- 🎓 &nbsp; I'm currently studying Computer Science at the University of Guelph.
+- 🚀 &nbsp; SWE generalist experienced in Java, Python, C++, JavaScript, React, Node.js, SQL, NoSQL, Docker, Kubernetes, etc
+- 🔍 &nbsp; Always eager to embrace and experiment with new tech, staying at the forefront of industry trends.
+- 🌱 &nbsp; Currently focused on Networking and Distributed Systems
+- 🌐 &nbsp; Check out my contributions on GitHub profile for open-source projects.
+- 🤝 &nbsp; Open to connecting with fellow developers, tech enthusiasts, and potential collaborators.
+- 📫 &nbsp; Reach out via basilyusuf1709@gmail.com or https://www.linkedin.com/in/basil-yusuf-388326273/ to get in touch. Let's build something awesome together!
+
 
 <br>
 
