@@ -5,10 +5,10 @@
 - 👋 &nbsp; Hi there! I'm Basil Yusuf, a Software Engineer with a passion for exploring diverse technologies.
 - 💻 &nbsp; Incoming SWE (Contract) @ Deloitte. Interned at Amazon (SDE Intern), TD Bank (SWE Intern), and Interac (Cloud Architect Intern)
 
-![amazon-logo-on-transparent-background-free-vector](https://github.com/basilysf1709/basilysf1709/assets/92009321/ddfeddd2-2525-42da-92e8-b36652c1be9c=250x250)
-![download](https://github.com/basilysf1709/basilysf1709/assets/92009321/65b48c00-ef8d-4337-9429-fe5afa2ff76d=250x250)
-![download (1)](https://github.com/basilysf1709/basilysf1709/assets/92009321/43de5259-f64b-4dac-89af-2d71858a303a=250x250)
-![download (2)](https://github.com/basilysf1709/basilysf1709/assets/92009321/a1d7183a-f259-4721-8493-7430d530fe3b=250x250)
+![amazon-logo-on-transparent-background-free-vector](https://github.com/basilysf1709/basilysf1709/assets/92009321/ddfeddd2-2525-42da-92e8-b36652c1be9c=50)
+![download](https://github.com/basilysf1709/basilysf1709/assets/92009321/65b48c00-ef8d-4337-9429-fe5afa2ff76d=50x50)
+![download (1)](https://github.com/basilysf1709/basilysf1709/assets/92009321/43de5259-f64b-4dac-89af-2d71858a303a=50x50)
+![download (2)](https://github.com/basilysf1709/basilysf1709/assets/92009321/a1d7183a-f259-4721-8493-7430d530fe3b=50x50)
 
 
 - 🎓 &nbsp; I'm currently studying Computer Science at the University of Guelph.
