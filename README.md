@@ -3,7 +3,7 @@
 ### 💻 &nbsp;About Me 
 
 - 👋 &nbsp; Hi there! I'm Basil Yusuf, a Software Engineer with a passion for exploring diverse technologies.
-- 💻 &nbsp; Incoming SWE (Contract) @ Deloitte. Interned at Amazon (SDE Intern![amazon-logo-on-transparent-background-free-vector](https://github.com/basilysf1709/basilysf1709/assets/92009321/b40fe29b-d6b8-4f36-93e6-c0ab843c510b | 10x10) ), TD Bank (SWE Intern), and Interac (Cloud Architect Intern).
+- 💻 &nbsp; Incoming SWE (Contract) @ Deloitte. Interned at Amazon (SDE Intern![amazon-logo-on-transparent-background-free-vector(https://github.com/basilysf1709/basilysf1709/assets/92009321/b40fe29b-d6b8-4f36-93e6-c0ab843c510b | 10x10) ), TD Bank (SWE Intern), and Interac (Cloud Architect Intern).
 - 🎓 &nbsp; I'm currently studying Computer Science at the University of Guelph.
 - 🚀 &nbsp; SWE generalist experienced in Java, Python, C++, JavaScript, React, Node.js, SQL, NoSQL, Docker, Kubernetes, etc
 - 🔍 &nbsp; Always eager to embrace and experiment with new tech, staying at the forefront of industry trends.
