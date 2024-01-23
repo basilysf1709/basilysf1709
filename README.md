@@ -6,17 +6,23 @@
 
 <p align="left"> <a href="https://twitter.com/basilyusuf1709" target="blank"><img src="https://img.shields.io/twitter/follow/basilyusuf1709?logo=twitter&style=for-the-badge" alt="basilyusuf1709" /></a> </p>
 
-- 🔭 I’m currently working on [stealth project]([NA])
+- Work Experiences:
+ - Software Engineer @ Deloitte (Oct 2023 - current)
+ - Software Engineer Intern @ Amazon (May 2023 - Aug 2023)
+ - Software Engineer Intern @ TD Bank (Jan 2023 - Apr 2023)
+ - Cloud Architect Intern @ Interac (Sep 2022 - Dec 2022)
+- University:
+ - Network Research (Jan 2023 - Apr 2023)
+ - Teaching Assistant (Sep 2022 - Dec 2022)
+ - Research Assistant (May 2022 - Aug 2022)
 
-- 🌱 I’m currently learning **RAGs, Llamaindex, Langchain, etc**
-
-- 👨‍💻 All of my projects are available at [https://github.com/basilysf1709](https://github.com/basilysf1709)
-
-- •ᴗ• About me [portfolio](https://basilyusuf-portfolio.vercel.app/)
-
-- 💬 Ask me about **React, LLMs, RAGs**
-
-- 📫 How to reach me **basilyusuf1709@gmail.com**
+- Personal:
+  - 🔭 I’m currently working on [stealth project]([NA])
+  - 🌱 I’m currently learning **RAGs, Llamaindex, Langchain, etc**
+  - 👨‍💻 All of my projects are available at [https://github.com/basilysf1709](https://github.com/basilysf1709)
+  - •ᴗ• About me [portfolio](https://basilyusuf-portfolio.vercel.app/)
+  - 💬 Ask me about **React, LLMs, RAGs**
+  - 📫 How to reach me **basilyusuf1709@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
