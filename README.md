@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/basilysf1709](https://github.com/basilysf1709)
 
+- •ᴗ• About me [Portfolio]([https://github.com/basilysf1709](https://basilyusuf-portfolio.vercel.app/))
+
 - 💬 Ask me about **React, LLMs, RAGs**
 
 - 📫 How to reach me **basilyusuf1709@gmail.com**
