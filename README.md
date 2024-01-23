@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/basilysf1709](https://github.com/basilysf1709)
 
-- •ᴗ• About me [jkhljkhk](https://github.com/basilysf1709)
+- •ᴗ• About me [portfolio](https://basilyusuf-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, LLMs, RAGs**
 
