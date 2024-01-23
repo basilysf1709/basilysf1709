@@ -7,11 +7,12 @@
 <p align="left"> <a href="https://twitter.com/basilyusuf1709" target="blank"><img src="https://img.shields.io/twitter/follow/basilyusuf1709?logo=twitter&style=for-the-badge" alt="basilyusuf1709" /></a> </p>
 
 - 💼 Work Experiences:
-  - ⚫ Software Engineer @ Deloitte (Oct 2023 - current)
+  - ⚫ Software Engineer @ Deloitte (Oct 2023 - Current)
   - 📦 Software Engineer Intern @ Amazon (May 2023 - Aug 2023)
   - 🏦 Software Engineer Intern @ TD Bank (Jan 2023 - Apr 2023)
   - 💵 Cloud Architect Intern @ Interac (Sep 2022 - Dec 2022)
 - 📚 University:
+  - 🌐 [Contd.] Network Research (Jan 2024 - Current)
   - 🌐 Network Research (Jan 2023 - Apr 2023)
   - 🎓 Teaching Assistant (Sep 2022 - Dec 2022)
   - 🔎 Research Assistant (May 2022 - Aug 2022)
