@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basil Yusuf</h1>
-<h3 align="center">A tinkerer with interests in making projects</h3>
+<h3 align="center">A Software tinkerer</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basilysf1709" alt="basilysf1709" /></a> </p>
