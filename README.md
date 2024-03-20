@@ -17,11 +17,8 @@
   - 🎓 Teaching Assistant (Sep 2022 - Dec 2022)
   - 🔎 Research Assistant (May 2022 - Aug 2022)
 - 👤 Personal:
-  - 🔭 I’m currently working on [stealth project]([NA])
   - 🌱 I’m currently learning **RAGs, Llamaindex, Langchain, etc**
   - 👨‍💻 All of my projects are available at [https://github.com/basilysf1709](https://github.com/basilysf1709)
-  - •ᴗ• About me [portfolio](https://basilyusuf-portfolio.vercel.app/)
-  - 💬 Ask me about **React, LLMs, RAGs**
   - 📫 How to reach me **basilyusuf1709@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
