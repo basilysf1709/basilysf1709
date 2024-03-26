@@ -16,10 +16,9 @@
   - 🌐 Network Research (Jan 2023 - Apr 2023)
   - 🎓 Teaching Assistant (Sep 2022 - Dec 2022)
   - 🔎 Research Assistant (May 2022 - Aug 2022)
-- 👤 Personal:
-  - 🌱 I’m currently learning **RAGs, Llamaindex, Langchain, etc**
-  - 👨‍💻 All of my projects are available at [https://github.com/basilysf1709](https://github.com/basilysf1709)
-  - 📫 How to reach me **basilyusuf1709@gmail.com**
+- 👤 Active Projects:
+  - 🌱 Teachify AI: Fully administered AI tools to help Professors and Students in their daily tasks
+  - 👨‍💻 GetQuranVerse: Online multiplayer game to guess the correct Quran verse being played
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
