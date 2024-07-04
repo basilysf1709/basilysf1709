@@ -3,23 +3,16 @@
 
 ### Work Experience
 
-- **Backend & Infrastructure Engineer (Contract) at Deloitte**
+- **Backend & Infrastructure Engineer (Contract) at Deloitte** (Sep 2023 - July 2024)
   - Implemented CI/CD pipelines, AWS Lambda Scheduler, and AWS Application Load Balancer.
   - Deployed Docker containers for various services on AWS ECS - Fargate.
-
-- **Software Engineer Intern at Amazon**
+- **Software Engineer Intern at Amazon** (May 2023 - Aug 2023)
   - Developed a web app for Amazon Kids+, reducing processing time significantly.
   - Automated AWS Systems Manager configuration deployments.
-
-- **Undergraduate Researcher at University of Guelph**
-  - Developed a modular TCP server using advanced OOP design patterns.
-  - Optimized a C++ TCP server for handling multiple client connections.
-
-- **Software Engineer Intern at TD Bank**
+- **Software Engineer Intern at TD Bank** (Jan 2023 - Apr 2023)
   - Migrated SOAP API endpoints to REST API endpoints, reducing production downtime.
   - Created a robust XML parser using Python.
-
-- **Software Engineer Intern at Interac**
+- **Software Engineer Intern at Interac** (Sep 2022 - Dec 2022)
   - Developed authentication infrastructure using Azure Key Vault and other Azure services.
   - Coordinated the building of Interac’s Digital Platform architecture.
     
