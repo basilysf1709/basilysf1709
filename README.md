@@ -3,7 +3,6 @@
 
 ### Work Experience
 
-- Incoming Software Engineer at **HubSpot** (Sep 2024 - Current)
 - Software Engineer at **Deloitte** (Sep 2023 - July 2024)
 - Software Engineer Intern at **Amazon** (May 2023 - Aug 2023)
 - Software Engineer Intern at **TD Bank** (Jan 2023 - Apr 2023)
