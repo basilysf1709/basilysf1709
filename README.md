@@ -12,4 +12,4 @@
 
 - Undergraduate Researcher (C++) at **University of Guelph** (Jan 2024 - Apr 2024)
 - Research Associate (System Design) at **University of Guelph** (Jan 2023 - Apr 2023)
-- Teaching Assistant (OOP) at **University of Guelph** (Jan 2023 - Apr 2023)
+- Teaching Assistant (OOP) at **University of Guelph** (Sep 2022 - Dec 2022)
