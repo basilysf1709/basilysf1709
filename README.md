@@ -3,6 +3,7 @@
 
 ### Work Experience
 
+- Software Engineer at **Google** (Dec 2024 - Present)
 - Backend & Infrastructure Engineer (Contract) at **Deloitte** (Sep 2023 - July 2024)
 - Software Engineer Intern at **Amazon** (May 2023 - Aug 2023)
 - Software Engineer Intern at **TD Bank** (Jan 2023 - Apr 2023)
