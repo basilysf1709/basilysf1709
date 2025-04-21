@@ -14,3 +14,19 @@
 - Undergraduate Researcher (C++) at **University of Guelph** (Jan 2024 - Apr 2024)
 - Research Associate (System Design) at **University of Guelph** (Jan 2023 - Apr 2023)
 - Teaching Assistant (OOP) at **University of Guelph** (Sep 2022 - Dec 2022)
+
+### Books (reading/already read)
+
+- Designing Data-Instensive Applications (Kleppmann)
+- Learning Go (Bodner)
+- Computer Networking (Kurose Ross)
+- The Architecture of Open Source Applications (Brown & Wilson)
+- The Go Programming Language (Donovan Keringhan)
+- Crafting Compilers (Fischer LeBlanc)
+- readings in... database systems
+- Introductions in Algorithms
+- Writing Solid Code
+- Java - Concurrency in Practice
+- Ostep
+- Crafting Interpreters
+- Systems Design Interviews - Alex Xu 
