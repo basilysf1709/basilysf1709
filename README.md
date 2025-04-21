@@ -25,8 +25,8 @@
 - Crafting Compilers (Fischer LeBlanc)
 - readings in... database systems
 - Introductions in Algorithms
-- Writing Solid Code
-- Java - Concurrency in Practice
-- Ostep
-- Crafting Interpreters
-- Systems Design Interviews - Alex Xu 
+- Writing Solid Code (Maguire)
+- Java - Concurrency in Practice (Addison Wesley)
+- Ostep (Arpaci-Dusseau)
+- Crafting Interpreters (Nystorm)
+- Systems Design Interviews (Alex Xu)
