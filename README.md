@@ -30,3 +30,4 @@
 - Ostep (Arpaci-Dusseau)
 - Crafting Interpreters (Nystorm)
 - Systems Design Interviews (Alex Xu)
+- Computer Systems (Bryant - O'Hallaron)
