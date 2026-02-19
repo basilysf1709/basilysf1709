@@ -1,7 +1,7 @@
 # Hi, I'm Basil Yusuf! 👋
 
 
-### Work Experience
+### Work experience
 
 - Software Engineer at **Google** (Dec 2024 - Present)
 - Backend & Infrastructure Engineer (Contract) at **Deloitte** (Sep 2023 - July 2024)
@@ -9,13 +9,13 @@
 - Software Engineer Intern at **TD Bank** (Jan 2023 - Apr 2023)
 - Software Engineer Intern at **Interac** (Sep 2022 - Dec 2022)
     
-### University Experience
+### University experience
 
 - Undergraduate Researcher (C++) at **University of Guelph** (Jan 2024 - Apr 2024)
 - Research Associate (System Design) at **University of Guelph** (Jan 2023 - Apr 2023)
 - Teaching Assistant (OOP) at **University of Guelph** (Sep 2022 - Dec 2022)
 
-### Projects
+### Recent projects
 
 - [Octree](https://useoctree.com) - AI LaTeX Editor currently at 5-6k monthly visitors
 - [Tools](https://tools.useoctree.com) - Fully localized latex tools
