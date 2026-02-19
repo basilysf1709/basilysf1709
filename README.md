@@ -15,6 +15,15 @@
 - Research Associate (System Design) at **University of Guelph** (Jan 2023 - Apr 2023)
 - Teaching Assistant (OOP) at **University of Guelph** (Sep 2022 - Dec 2022)
 
+### Projects
+- [Octree](https://useoctree.com) - AI LaTeX Editor currently at 5-6k monthly visitors
+- [Tools](https://tools.useoctree.com) - Fully localized latex tools
+- [Distributed Systems](https://github.com/basilysf1709/distributed-systems) - Learning resource for distributed systems (231 🌟)
+- [Covenant](https://github.com/basilysf1709/covenant/tree/main) - Brain inspired fully local agent (with cortex, sqlite, pgvector memory)
+- [Dockermake](https://github.com/basilysf1709/dockermake) - Makefile for your docker
+- [Personal Agent](https://github.com/basilysf1709/personal-agent/) - An agent that helps me edit my resume using latex, search internet and apply to jobs, running on the cloud
+
+
 ### Books (reading/already read)
 
 - Designing Data-Instensive Applications (Kleppmann)
