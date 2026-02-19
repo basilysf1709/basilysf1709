@@ -16,6 +16,7 @@
 - Teaching Assistant (OOP) at **University of Guelph** (Sep 2022 - Dec 2022)
 
 ### Projects
+
 - [Octree](https://useoctree.com) - AI LaTeX Editor currently at 5-6k monthly visitors
 - [Tools](https://tools.useoctree.com) - Fully localized latex tools
 - [Distributed Systems](https://github.com/basilysf1709/distributed-systems) - Learning resource for distributed systems (231 🌟)
