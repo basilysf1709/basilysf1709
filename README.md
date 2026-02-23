@@ -14,13 +14,14 @@
 
 ### Recent projects
 
-- [Octree](https://useoctree.com) - AI LaTeX Editor currently at 5-6k monthly visitors
+- [Octree](https://useoctree.com) - AI LaTeX Editor currently at 6-7k monthly visitors
 - [Tools](https://tools.useoctree.com) - Fully localized latex tools
 - [Distributed Systems](https://github.com/basilysf1709/distributed-systems) - Learning resource for distributed systems (231 🌟)
 - [Golos](https://github.com/basilysf1709/golos) - Open Source Wispr Flow alternative (Super Lightweight)
 - [Covenant](https://github.com/basilysf1709/covenant/tree/main) - Brain inspired fully local agent (with cortex, sqlite, pgvector memory)
 - [Dockermake](https://github.com/basilysf1709/dockermake) - Makefile for your docker
 - [Personal Agent](https://github.com/basilysf1709/personal-agent/) - An agent that helps me edit my resume using latex, search internet and apply to jobs, running on the cloud
+- [File Renamer AI](https://filerenamerai.com/) - Rename files in bulk using AI 
 
 
 ### Books (reading/already read)
