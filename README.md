@@ -14,7 +14,7 @@
 
 ### Recent projects
 
-- [Octree](https://useoctree.com) - AI LaTeX Editor currently at 6-7k monthly visitors
+- [Octree](https://useoctree.com) - AI LaTeX Editor currently at 7k monthly visitors
 - [Tools](https://tools.useoctree.com) - Fully localized latex tools
 - [Distributed Systems](https://github.com/basilysf1709/distributed-systems) - Learning resource for distributed systems (231 🌟)
 - [Golos](https://github.com/basilysf1709/golos) - Open Source Wispr Flow alternative (Super Lightweight)
