@@ -20,7 +20,6 @@
 - [Golos](https://github.com/basilysf1709/golos) - Open Source Wispr Flow alternative (Super Lightweight)
 - [Covenant](https://github.com/basilysf1709/covenant/tree/main) - Brain inspired fully local agent (with cortex, sqlite, pgvector memory)
 - [Dockermake](https://github.com/basilysf1709/dockermake) - Makefile for your docker
-- [Personal Agent](https://github.com/basilysf1709/personal-agent/) - An agent that helps me edit my resume using latex, search internet and apply to jobs, running on the cloud
 - [File Renamer AI](https://filerenamerai.com/) - Rename files in bulk using AI 
 
 
