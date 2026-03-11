@@ -16,7 +16,7 @@
 
 - [Octree](https://useoctree.com) - AI LaTeX Editor
 - [Tools](https://tools.useoctree.com) - Fully localized latex tools
-- [Distributed Systems](https://github.com/basilysf1709/distributed-systems) - Learning resource for distributed systems (231 🌟)
+- [Distributed Systems](https://github.com/basilysf1709/distributed-systems) - Learning resource for distributed systems (230+ 🌟)
 - [Golos](https://github.com/basilysf1709/golos) - Open Source Wispr Flow alternative (Super Lightweight)
 - [Covenant](https://github.com/basilysf1709/covenant/tree/main) - Brain inspired fully local agent (with cortex, sqlite, pgvector memory)
 - [Dockermake](https://github.com/basilysf1709/dockermake) - Makefile for your docker
